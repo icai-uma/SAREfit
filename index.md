@@ -8,7 +8,7 @@ The contents of this code are provided without any warranty. They are intended f
 
 You may want to start by running the provided DemoSAREFit.m script for synthetic data or DemoSAREFit_RealData.m for real images.
 
-![Alt text](https://github.com/icai-uma/SAREfit/example.png?raw=true "Single ellipse fitting")
+![Alt text](SAREfit/example.png?raw=true "Single ellipse fitting")
 
 Any suggestions and bug reports will be welcome.
 
