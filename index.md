@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Ellipse fitting by spatial averaging of random ensembles
 
-You can use the [editor on GitHub](https://github.com/icai-uma/SAREfit/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This repository contains the source code of the paper [Ellipse fitting by spatial averaging of random ensembles](https://doi.org/10.1016/j.patcog.2020.107406).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The contents of this code are provided without any warranty. They are intended for evaluational purposes only.
 
-### Markdown
+### Run the Demo
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You may want to start by running the provided DemoSAREFit.m script for synthetic data or DemoSAREFit_RealData.m for real images.
 
-```markdown
-Syntax highlighted code block
+![Alt text](example.png?raw=true "Single ellipse fitting")
 
-# Header 1
-## Header 2
-### Header 3
+Any suggestions and bug reports will be welcome.
 
-- Bulleted
-- List
+### Citation
 
-1. Numbered
-2. List
+Please, cite this work as:
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/icai-uma/SAREfit/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Karl Thurnhofer-Hemsi, Ezequiel López-Rubio, Elidia Beatriz Blázquez-Parra, M. Carmen Ladrón-de-Guevara-Muñoz, Óscar David de-Cózar-Macías,
+Ellipse fitting by spatial averaging of random ensembles,
+Pattern Recognition, 2020, 107406, ISSN 0031-3203,
+https://doi.org/10.1016/j.patcog.2020.107406.
+(http://www.sciencedirect.com/science/article/pii/S0031320320302090)
